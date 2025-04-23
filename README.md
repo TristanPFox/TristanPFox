@@ -1,5 +1,5 @@
-# 💫 About Me:
-👨‍💻 Full Stack Developer with 9+ years of experience building seamless front-end and back-end solutions.<br>🌐 IT & Networking Pro, fluent in building and maintaining secure, scalable infrastructures.<br>🤖 Automation Expert @ QRFS, streamlining workflows and turning repetitive tasks into clean, efficient processes.<br>🎮 Gaming Community Leader, managing servers, creating content, and keeping the squad running smoothly.
+# 🦊 About Me:
+🔗 Full Stack Developer with 9+ years of experience building seamless front-end and back-end solutions.<br>🌐 IT & Networking Pro, fluent in building and maintaining secure, scalable infrastructures.<br>🤖 Automation Expert @ QRFS, streamlining workflows and turning repetitive tasks into clean, efficient processes.<br>🎮 Gaming Community Leader, managing servers, creating content, and keeping the squad running smoothly.
 
 
 ## 🌐 Socials:
@@ -11,6 +11,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=TristanPFox&theme=react&hide_border=true)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TristanPFox&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=TristanPFox&theme=discord&no-frame=true&no-bg=false&margin-w=4&title=Commits,Experience,Issues,Followers)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
