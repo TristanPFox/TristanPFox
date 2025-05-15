@@ -23,3 +23,4 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TristanPFox&theme=discord&no-frame=true&no-bg=false&margin-w=4&title=Commits,Experience,Issues,Followers)
+
