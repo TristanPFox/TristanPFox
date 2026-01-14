@@ -27,5 +27,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=TristanPFox&theme=react&hide_border=true)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy-liard-delta.vercel.app/?username=TristanPFox&theme=discord&no-frame=true&no-bg=false&margin-w=4&title=Commits,Experience,Issues,Followers)
+![](https://github-profile-trophy-fork-two.vercel.app/?username=TristanPFox&theme=discord&no-frame=true&no-bg=false&margin-w=4&title=Commits,Experience,Issues,Followers)
 
