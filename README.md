@@ -1,5 +1,5 @@
 ## 🦊 About Me:
-🍔 Full Stack Developer with 9+ years of experience building seamless front-end and back-end solutions.<br>
+🍔 Full Stack Developer with over 10 years of experience building seamless front-end and back-end solutions.<br>
 🌐 IT & Networking Pro, fluent in building and maintaining secure, scalable infrastructures.<br>
 🤖 Automation Expert @ QRFS, streamlining workflows and turning repetitive tasks into clean, efficient processes.<br>
 🎮 Gaming Community Leader, managing servers, creating content, and keeping the squad running smoothly.
